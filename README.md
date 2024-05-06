@@ -36,4 +36,4 @@ Below is the flowchart that describes the logic of the program. This visual aid 
 - **0:** Quit Program
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Teseife/Name-Statistics/blob/main/License) file for details.
